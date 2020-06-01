@@ -1,5 +1,9 @@
 Hola mundo. Saludos a todos
 
+<<<<<<< HEAD
 
 
 Esta es mi master
+=======
+Esto es una rama
+>>>>>>> mirama
